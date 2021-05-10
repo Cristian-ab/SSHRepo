@@ -1,3 +1,5 @@
 new file added on feature1 branch
+<<<<<<< HEAD
 
-local to remote, updated
+=======
+>>>>>>> 7107fd5f5618c0a1c4722dbca2cc1a8b1629e260
